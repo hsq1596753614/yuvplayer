@@ -1,0 +1,9 @@
+.vs
+*.autosave
+*.db
+Debug
+Release
+Makefile
+Makefile.*
+*.opendb
+build
